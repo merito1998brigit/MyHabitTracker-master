@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyHabitTracker</string>
+    <string name="title">enter your habits</string>
+    <string name="habits">type here....</string>
+    <string name="head">my habits</string>
+    <string name="duration">duration</string>
+    <string name="button">create</string>
+</resources>
